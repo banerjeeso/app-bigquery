@@ -1,0 +1,6 @@
+spring:
+  main:
+    web-environment: false
+metadata:
+ credential: hd-www-dev-41d65ce019e7.json    
+    
